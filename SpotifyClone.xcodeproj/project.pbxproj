@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		61A2D2C7299579CD00E1BD74 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A2D2C6299579CD00E1BD74 /* Extensions.swift */; };
 		61B19A9A2993F79500410FDA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B19A992993F79500410FDA /* AppDelegate.swift */; };
 		61B19A9C2993F79500410FDA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B19A9B2993F79500410FDA /* SceneDelegate.swift */; };
 		61B19A9E2993F79500410FDA /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B19A9D2993F79500410FDA /* HomeViewController.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		61A2D2C6299579CD00E1BD74 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		61B19A962993F79500410FDA /* SpotifyClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpotifyClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61B19A992993F79500410FDA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61B19A9B2993F79500410FDA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 				61B19AA22993F79B00410FDA /* Assets.xcassets */,
 				61B19A992993F79500410FDA /* AppDelegate.swift */,
 				61B19A9B2993F79500410FDA /* SceneDelegate.swift */,
+				61A2D2C6299579CD00E1BD74 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				61B19ABC2994089D00410FDA /* AuthViewController.swift in Sources */,
 				61B19A9A2993F79500410FDA /* AppDelegate.swift in Sources */,
 				61B19AD629940A5400410FDA /* UserProfile.swift in Sources */,
+				61A2D2C7299579CD00E1BD74 /* Extensions.swift in Sources */,
 				61B19AB8299407F600410FDA /* LibraryViewController.swift in Sources */,
 				61B19AD429940A4A00410FDA /* Artist.swift in Sources */,
 				61B19AC6299408D500410FDA /* PlaylistViewController.swift in Sources */,
